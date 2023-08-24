@@ -8,7 +8,7 @@ import NotFound from "./NotFound";
 // Components
 import Articles from "../components/Articles";
 import CommentsList from "../components/CommentsList";
-import AddCommentForm from "../components/AddCommentForm"
+import AddCommentForm from "../components/AddCommentForm";
 
 const Article = () => {
   const { name } = useParams();
