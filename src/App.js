@@ -6,7 +6,8 @@ import ArticlesList from "./pages/ArticlesList";
 import Article from "./pages/Article";
 import NotFound from "./pages/NotFound";
 
-// Components
+// Components to be 
+//aded
 import Navbar from "./components/Navbar";
 
 function App() {
